@@ -1,0 +1,22 @@
+body
+{
+    
+    background-color:#adeecf ;
+    margin: 0;
+    text-align: center;
+    
+}
+a{
+    color: #11999E;
+    font-family: 'Slabo 27px', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #EAF6F6;
+  }
+  .bottom{
+    position: relative;
+    top: 50px;
+    text-align: center;
+  }

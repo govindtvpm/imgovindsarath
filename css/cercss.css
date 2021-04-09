@@ -1,0 +1,31 @@
+body
+{
+    
+    background-color:#adeecf ;
+    margin: 0;
+    font-family: 'Dosis', sans-serif;
+    
+}
+a{
+    color: #11999E;
+    font-family: 'Slabo 27px', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #EAF6F6;
+  }
+  .bottom{
+    position: relative;
+    top: 325px;
+    text-align: center;
+  }
+  h2
+  {
+      text-align: center;
+      color:#184d47;
+    font-family: 'Tinos', serif;
+  }
+ 
+  
+  

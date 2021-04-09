@@ -1,0 +1,46 @@
+body
+{
+    
+    background-color:#adeecf ;
+    margin: 0;
+    text-align: center;
+    
+}
+.top
+{
+    position: relative;
+    top: 150px;
+}
+.name
+{
+    font-family: 'Architects Daughter', cursive;
+    color: #007965;
+    font-size: 300%;
+}
+.full
+{
+    font-family: 'East Sea Dokdo', cursive;
+    color: #00af91;
+   font-weight: normal;
+   padding-bottom: 10px;
+}
+.top
+{
+    position: relative;
+    padding-top: 50px;
+}
+.bottom
+{
+    position: relative;
+    top: 270px;
+    color:#007965;
+}
+a{
+    color: #11999E;
+    font-family: 'Slabo 27px', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #EAF6F6;
+  }

@@ -1,0 +1,22 @@
+body
+{
+    
+    background-color:#adeecf ;
+    margin: 0;
+    font-family: 'Yusei Magic', sans-serif;
+    
+}
+a{
+    color: #213e3b;
+    font-family: 'Monda', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #11999E;
+  }
+  .bottom{
+    position: relative;
+    top: 550px;
+    text-align: center;
+  }
